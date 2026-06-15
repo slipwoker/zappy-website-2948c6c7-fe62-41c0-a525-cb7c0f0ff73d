@@ -75,7 +75,7 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### ‏מה שבא מגלי מתקדמת 30 ש״ח
-https://example.com/product/mh-shba-mgly-mtkdmt-30-shch-j0ia5p
+https://example.com/product/mh-shba-mgly-mtkdmt-30-shch-q7dalc
 - Price: 30.00 ILS (sale, was 31.00 ILS)
 - Availability: In stock
 - SKU: ‏גלי מתקדמת

@@ -124,7 +124,7 @@ Description: חנות סקושים לילדים עם מבחר ענק של סקו
 
 
 צרו קשר
-הקהילה שלנו
+הקהילה שלנוs
 
 
 
@@ -5127,7 +5127,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ## Product Catalog
 
 ### ‏מה שבא מגלי מתקדמת 30 ש״ח
-URL: https://example.com/product/mh-shba-mgly-mtkdmt-30-shch-j0ia5p
+URL: https://example.com/product/mh-shba-mgly-mtkdmt-30-shch-q7dalc
 Price: 30.00 ILS (sale, was 31.00 ILS)
 Availability: In stock
 SKU: ‏גלי מתקדמת

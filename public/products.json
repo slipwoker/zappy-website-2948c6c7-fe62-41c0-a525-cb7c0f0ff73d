@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-15T12:24:21.581Z",
+  "generated_at": "2026-06-15T12:50:19.355Z",
   "base_url": "https://example.com",
   "currency": "ILS",
   "count": 1,
   "products": [
     {
       "id": "7468a5ae-5eb5-45c0-9ddc-b5c32cc58cde",
-      "slug": "mh-shba-mgly-mtkdmt-30-shch-j0ia5p",
+      "slug": "mh-shba-mgly-mtkdmt-30-shch-q7dalc",
       "name": "‏מה שבא מגלי מתקדמת 30 ש״ח",
       "name_translations": {},
       "description": "",
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/mh-shba-mgly-mtkdmt-30-shch-j0ia5p",
+      "url": "https://example.com/product/mh-shba-mgly-mtkdmt-30-shch-q7dalc",
       "categories": [],
-      "updated_at": "2026-06-15T12:19:51.229Z"
+      "updated_at": "2026-06-15T12:27:26.817Z"
     }
   ]
 }
