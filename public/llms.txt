@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://-2948c6c7.zappy5.app
+https://example.com
 חנות סקושים לילדים עם מבחר ענק של סקושי איכותי לבית ספר. קניית סקושי אונליין ישראל במשלוח מהיר, חוויה צבעונית ומפנקת שמחכה לכם. היכנסו עכשיו!
 
 ### תכונות
-https://-2948c6c7.zappy5.app/features
+https://example.com/features
 סקושי איכותי לבית ספר עם רכות מושלמת, עמידות ללא פשרות ועיצובים שהילדים פשוט לא יכולים לעמוד בפניהם. גלו את התכונות שיהפכו כל יום להרפתקה מתוקה!
 
 ### קהילה
-https://-2948c6c7.zappy5.app/community
+https://example.com/community
 קהילת גלי מתקדמת סקושים מזמינה אתכם לחלוק טיפים, רעיונות יצירתיים ואהבה לסקושי איכותי לבית ספר. בואו להיות חלק מעולם של כיף, צבע ושמחה משותפת!
 
 ### צור קשר
-https://-2948c6c7.zappy5.app/contact
+https://example.com/contact
 רוצים סקושי איכותי לבית ספר או מתנה מפתיעה? צרו קשר עם גלי מתקדמת חנות סקושים לילדים ונשמח לעזור לכם לבחור את הסקושי שיעלה חיוך ענק על הפנים!
 
 ### Products
-https://-2948c6c7.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - גלי מתקדמת חנות סקושים🍵
 
 ### Cart
-https://-2948c6c7.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-2948c6c7.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-2948c6c7.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-2948c6c7.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-2948c6c7.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-2948c6c7.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - גלי מתקדמת חנות סקושים🍵
 
 ### Category
-https://-2948c6c7.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - גלי מתקדמת חנות סקושים🍵
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-2948c6c7.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-2948c6c7.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-2948c6c7.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-2948c6c7.zappy5.app/sitemap.xml
-- Robots: https://-2948c6c7.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-2948c6c7.zappy5.app/llms-full.txt
-- Products (JSON): https://-2948c6c7.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-2948c6c7.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
