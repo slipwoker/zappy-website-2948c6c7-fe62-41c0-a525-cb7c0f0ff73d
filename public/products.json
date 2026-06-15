@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-15T12:06:52.855Z",
+  "generated_at": "2026-06-15T12:24:21.581Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "7468a5ae-5eb5-45c0-9ddc-b5c32cc58cde",
+      "slug": "mh-shba-mgly-mtkdmt-30-shch-j0ia5p",
+      "name": "‏מה שבא מגלי מתקדמת 30 ש״ח",
+      "name_translations": {},
+      "description": "",
+      "short_description": "‏מה שבא לי מגלי מתקדמת 30 ש״ח",
+      "sku": "‏גלי מתקדמת",
+      "brand": "‏ גלי מתקדמת",
+      "price": 30,
+      "base_price": 31,
+      "sale_price": 30,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1781525852743-2yew4f.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mh-shba-mgly-mtkdmt-30-shch-j0ia5p",
+      "categories": [],
+      "updated_at": "2026-06-15T12:19:51.229Z"
+    }
+  ]
 }
