@@ -1,0 +1,100 @@
+# גלי מתקדמת חנות סקושים🍵 — Generative Engine Optimization Map
+
+> גלי מתקדמת
+
+---
+
+## Pages
+
+### בית
+https://-2948c6c7.zappy5.app
+חנות סקושים לילדים עם מבחר ענק של סקושי איכותי לבית ספר. קניית סקושי אונליין ישראל במשלוח מהיר, חוויה צבעונית ומפנקת שמחכה לכם. היכנסו עכשיו!
+
+### תכונות
+https://-2948c6c7.zappy5.app/features
+סקושי איכותי לבית ספר עם רכות מושלמת, עמידות ללא פשרות ועיצובים שהילדים פשוט לא יכולים לעמוד בפניהם. גלו את התכונות שיהפכו כל יום להרפתקה מתוקה!
+
+### קהילה
+https://-2948c6c7.zappy5.app/community
+קהילת גלי מתקדמת סקושים מזמינה אתכם לחלוק טיפים, רעיונות יצירתיים ואהבה לסקושי איכותי לבית ספר. בואו להיות חלק מעולם של כיף, צבע ושמחה משותפת!
+
+### צור קשר
+https://-2948c6c7.zappy5.app/contact
+רוצים סקושי איכותי לבית ספר או מתנה מפתיעה? צרו קשר עם גלי מתקדמת חנות סקושים לילדים ונשמח לעזור לכם לבחור את הסקושי שיעלה חיוך ענק על הפנים!
+
+### Products
+https://-2948c6c7.zappy5.app/products
+המוצרים שלנו - גלי מתקדמת חנות סקושים🍵
+
+### Cart
+https://-2948c6c7.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-2948c6c7.zappy5.app/checkout
+תשלום
+
+### Login
+https://-2948c6c7.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-2948c6c7.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-2948c6c7.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-2948c6c7.zappy5.app/product/:slug
+פרטי המוצר - גלי מתקדמת חנות סקושים🍵
+
+### Category
+https://-2948c6c7.zappy5.app/category/:slug
+מוצרים - גלי מתקדמת חנות סקושים🍵
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2948c6c7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2948c6c7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2948c6c7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גלי מתקדמת חנות סקושים🍵
+גלי מתקדמת
+
+## Target Audience
+- תלמידי בתי ספר
+- הורים לילדים
+- מפעילים קהילתיים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-2948c6c7.zappy5.app/sitemap.xml
+- Robots: https://-2948c6c7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-2948c6c7.zappy5.app/llms-full.txt
+- Products (JSON): https://-2948c6c7.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-2948c6c7.zappy5.app/product-feed.xml
